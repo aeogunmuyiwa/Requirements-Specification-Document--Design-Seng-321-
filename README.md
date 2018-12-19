@@ -1,7 +1,7 @@
 # Seng-321
  Requirements Engineering 
  Course Overview
-
+** submitted deliverables can be found at https://brainstormconsulting259492950.wordpress.com/
 Requirements management is a critical yet very difficult part of software development. Project success is ultimately measured against the customer requirements. This course is designed to address the issues of requirements management throughout the software development life cycle. It provides the students with opportunities to learn techniques for requirements elicitation, analysis and modelling, as well as formal specification, negotiation and decision making. The course is project based and offers the student the experience of applying such techniques in a non-trivial software project.
 
 Topics
